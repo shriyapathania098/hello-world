@@ -1,2 +1,3 @@
 # hello-world
-Just a repository
+Hi there,
+I am a  beginner on Github. My name is Shriya. I am a Btech Computer Science student.
